@@ -20,3 +20,12 @@ ark
 adw-gtk3
 Thunar
 polkit-auth
+
+
+ln -s ~/Documents/dotfiles/alacritty/ ~/.config/
+ln -s ~/Documents/dotfiles/dunst/ ~/.config/
+ln -s ~/Documents/dotfiles/hypr/ ~/.config/
+ln -s ~/Documents/dotfiles/waybar/ ~/.config/
+ln -s ~/Documents/dotfiles/wlogout/ ~/.config/
+ln -s ~/Documents/dotfiles/wofi/ ~/.config/
+ln -s ~/Documents/dotfiles/wall/ ~/Pictures/
