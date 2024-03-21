@@ -1,6 +1,8 @@
 # dotfiles
 Dependencies:
 
+Programms:
+
 Breeze
 swaylock
 way-logout
@@ -22,6 +24,18 @@ Thunar
 polkit-auth
 github-desktop
 gnome-keyring
+thunderbird
+vesktop
+
+Fonts:
+IBM Plex
+Bitstream vera
+cantarell
+cascadia
+fontawesome 5
+inconsolata
+jetbrains mono nerd
+
 
 ln -s ~/Documents/dotfiles/alacritty/ ~/.config/
 ln -s ~/Documents/dotfiles/dunst/ ~/.config/

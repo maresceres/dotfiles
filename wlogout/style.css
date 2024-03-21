@@ -2,7 +2,7 @@ window {
     font-family:ttf-inconsolata;
     font-size: 16pt;
     color: #FFFFFF; /* text */
-	    background-color: rgba(0, 0, 0, 0.9);
+	    background-color: rgba(0, 0, 0, 0.3);
 }
 
 button {
