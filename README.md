@@ -3,6 +3,7 @@ Dependencies:
 
 Programms:
 
+papirus-icon-theme
 Breeze
 swaylock
 way-logout
