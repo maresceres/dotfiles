@@ -29,21 +29,21 @@ gnome-keyring
 thunderbird  
 vesktop  
   
-IBM Plex
-Bitstream vera
-cantarell
-cascadia
-fontawesome 5
-inconsolata
-jetbrains mono nerd
-
-
+IBM Plex  
+Bitstream vera  
+cantarell  
+cascadia  
+fontawesome 5  
+inconsolata  
+jetbrains mono nerd  
+  
+  
 ## Symlinks
-
-ln -s ~/Documents/dotfiles/alacritty/ ~/.config/
-ln -s ~/Documents/dotfiles/dunst/ ~/.config/
-ln -s ~/Documents/dotfiles/hypr/ ~/.config/
-ln -s ~/Documents/dotfiles/waybar/ ~/.config/
-ln -s ~/Documents/dotfiles/wlogout/ ~/.config/
-ln -s ~/Documents/dotfiles/wofi/ ~/.config/
-ln -s ~/Documents/dotfiles/wall/ ~/Pictures/
+  
+ln -s ~/Documents/dotfiles/alacritty/ ~/.config/  
+ln -s ~/Documents/dotfiles/dunst/ ~/.config/  
+ln -s ~/Documents/dotfiles/hypr/ ~/.config/  
+ln -s ~/Documents/dotfiles/waybar/ ~/.config/  
+ln -s ~/Documents/dotfiles/wlogout/ ~/.config/  
+ln -s ~/Documents/dotfiles/wofi/ ~/.config/  
+ln -s ~/Documents/dotfiles/wall/ ~/Pictures/  
