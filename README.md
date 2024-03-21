@@ -2,36 +2,33 @@
 
 ![Test Image 4](https://maresceres.ch/file/design/meinbanner.png)
 
-Dependencies:
+## Dependencies
 
-Programms:
-
-papirus-icon-theme
-Breeze
-swaylock
-way-logout
-kvantum
-pamixer
-pavucontrol
-wlogout
-alacritty
-chromium
-swww
-grim
-slurp
-nwg-look
-nwg-display
-alsa-utils
-ark
-adw-gtk3
-Thunar
-polkit-auth
-github-desktop
-gnome-keyring
-thunderbird
-vesktop
-
-Fonts:
+papirus-icon-theme  
+Breeze  
+swaylock  
+way-logout  
+kvantum  
+pamixer  
+pavucontrol  
+wlogout  
+alacritty  
+chromium  
+swww  
+grim  
+slurp  
+nwg-look  
+nwg-display  
+alsa-utils  
+ark  
+adw-gtk3  
+Thunar  
+polkit-auth  
+github-desktop  
+gnome-keyring  
+thunderbird  
+vesktop  
+  
 IBM Plex
 Bitstream vera
 cantarell
@@ -40,6 +37,8 @@ fontawesome 5
 inconsolata
 jetbrains mono nerd
 
+
+## Symlinks
 
 ln -s ~/Documents/dotfiles/alacritty/ ~/.config/
 ln -s ~/Documents/dotfiles/dunst/ ~/.config/
