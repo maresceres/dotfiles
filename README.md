@@ -1,6 +1,6 @@
 # My Dotfiles
 
-![Test Image 4](https://maresceres.ch/file/design/meinbanner.png)
+![Test Image 4](https://maresceres.ch/hypr.png)
 
 ## Dependencies
 
