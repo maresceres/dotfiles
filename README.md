@@ -20,7 +20,8 @@ ark
 adw-gtk3
 Thunar
 polkit-auth
-
+github-desktop
+gnome-keyring
 
 ln -s ~/Documents/dotfiles/alacritty/ ~/.config/
 ln -s ~/Documents/dotfiles/dunst/ ~/.config/
