@@ -14,7 +14,7 @@ pavucontrol
 wlogout  
 alacritty  
 chromium  
-swww  
+hyprpaper  
 grim  
 slurp  
 nwg-look  
