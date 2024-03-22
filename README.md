@@ -1,6 +1,6 @@
 # My Dotfiles
 
-![Desktop](https://maresceres.ch/hypr.png)
+![Desktop](https://maresceres.ch/hyprflat.png)
 
 ## Dependencies
 
