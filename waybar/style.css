@@ -9,7 +9,7 @@
 
 window#waybar {
     background-color: rgba(56, 60, 74, 0.65);
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 0px 0px 0px 0px;
 }
 
 window#waybar.hidden {
@@ -41,7 +41,7 @@ window#waybar.hidden {
     transition: none;
     box-shadow: inherit;
     text-shadow: inherit;
-    border-radius: inherit;
+    border-radius: 0px 0px 0px 0px;
     background-color: rgba(56, 60, 74, 0.6);
     background-color: rgba(124, 129, 140, 0.6);
 }
@@ -49,7 +49,7 @@ window#waybar.hidden {
 #workspaces button.active {
     background-color: rgba(78, 82, 99, 0.6);
     color: white;
-    border-radius: inherit;
+    border-radius: 0px 0px 0px 0px;
 }
 
 #language {
