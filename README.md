@@ -1,13 +1,13 @@
 # My Dotfiles
 
-![Test Image 4](https://maresceres.ch/hypr.png)
+![Desktop](https://maresceres.ch/hypr.png)
 
 ## Dependencies
 
 papirus-icon-theme  
-Breeze  
+breeze  
 swaylock  
-way-logout  
+waylogout  
 kvantum  
 pamixer  
 pavucontrol  
@@ -22,20 +22,20 @@ nwg-display
 alsa-utils  
 ark  
 adw-gtk3  
-Thunar  
-polkit-auth  
+thunar  
+polkit-kde-agent  
 github-desktop  
 gnome-keyring  
 thunderbird  
 vesktop  
   
-IBM Plex  
+IBM Plex   
 Bitstream vera  
-cantarell  
-cascadia  
-fontawesome 5  
-inconsolata  
-jetbrains mono nerd  
+Cantarell  
+Cascadia  
+Fontawesome 5  
+Inconsolata  
+Jetbrains mono nerd  
   
   
 ## Symlinks
