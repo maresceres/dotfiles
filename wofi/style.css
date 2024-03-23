@@ -8,14 +8,17 @@
   background-color: rgba(29, 32, 33, 0.9);
   margin: auto;
   padding: 10px;
-  border-radius: 20px;
+  border-radius: 3px;
   border: 2px solid #33ccff;
 }
 
 #input {
   padding: 10px;
   margin-bottom: 10px;
-  border-radius: 15px;
+  border-radius: 3px;
+  background-color: rgba(46, 52, 64, 0.3);
+  /*border: 2px solid #33ccff;*/
+
 }
 
 #outer-box {
@@ -28,11 +31,12 @@
 
 #entry {
   padding: 10px;
-  border-radius: 15px;
+  border-radius: 3px;
 }
 
 #entry:selected {
-  background-color: rgba(46, 52, 64, 0.1);
+  background-color: rgba(46, 52, 64, 0.3);
+  /*border: 1px solid #ffffff;*/
 }
 
 #text {
