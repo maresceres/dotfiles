@@ -6,7 +6,7 @@
 
 papirus-icon-theme  
 breeze  
-swaylock  
+hyprlock  
 waylogout  
 kvantum  
 pamixer  
